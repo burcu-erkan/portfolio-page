@@ -41,7 +41,7 @@ $(function ($) {
     var $typed = $("#typed");
     if ($typed.length > 0) {
       $typed.typed({
-        strings: ["Frontend Development", "Software Engineer"],
+        strings: ["Front-end Development", "Software Engineer"],
         stringsElement: null,
         typeSpeed: 70,
         startDelay: 150,
