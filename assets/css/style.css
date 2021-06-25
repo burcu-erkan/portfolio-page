@@ -2100,6 +2100,8 @@ Portfolio Start
 .gallery-item-content .item-thumbnail {
   position: relative;
   overflow: hidden;
+  height:220px;
+  object-fit:cover;
   
   border-radius: 10px;
 }
