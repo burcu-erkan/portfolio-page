@@ -1429,6 +1429,7 @@ select:focus {
  
 }
 
+.
 
 .single-service img {
     width: 65px;
@@ -2105,7 +2106,11 @@ Portfolio Start
   
   border-radius: 10px;
 }
-
+.item-thumbnail img{
+  object-fit:cover;
+  height: 100%;
+  width: 100%;
+}
 
 .gallery-item-content .item-thumbnail .content-overlay {
   position: absolute;
