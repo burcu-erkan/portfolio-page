@@ -711,6 +711,11 @@
     .home .main-profile-image {
         padding: 20px;
     }
+    .home .main-profile-image img{
+        width: 100%;
+        height: 400px;
+        padding: 10px;
+    }
 
     .section-heading .s-h-title {
         font-size: 30px;
